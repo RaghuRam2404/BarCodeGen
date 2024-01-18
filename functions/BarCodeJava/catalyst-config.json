@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "BarCodeJava",
+		"stack": "java8",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "BCGen"
+	}
+}

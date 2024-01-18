@@ -1,0 +1,11 @@
+{
+  "functions": {
+    "targets": [
+      "BarCodeJava"
+    ],
+    "ignore": [
+      ".output"
+    ],
+    "source": "functions"
+  }
+}
